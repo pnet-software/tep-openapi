@@ -1,0 +1,15 @@
+tep-openapi
+Copyright 2026 P-NET New Generation Emerging Networks & Verticals Private Company
+
+This product includes software developed by
+P-NET New Generation Emerging Networks & Verticals Private Company (https://p-net.gr/)
+as part of TEP (Telco Exposure & Programmability).
+
+--------------------------------------------------------------------------------
+3GPP OpenAPI specifications
+
+The file TS29122_AsSessionWithQoS_Bundle.openapi.yaml
+is a 3GPP OpenAPI specification. It is not covered by the Apache License of
+this repository and keeps the copyright notice in the file:
+(c) 3GPP Organizational Partners (ARIB, ATIS, CCSA, ETSI, TSDSI, TTA, TTC).
+All rights reserved.
